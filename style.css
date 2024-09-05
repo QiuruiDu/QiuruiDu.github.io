@@ -241,6 +241,14 @@ div.blocktitle {
 	margin-bottom: 0.1em;
 }
 
+div.bottom {
+	position:relative;
+}
+
+div.bottom_abs {
+	position:absolute;
+	bottom:0;
+}
 div.blockcontent {
 	border: 1px solid silver;
 	padding: 0.3em 0.5em;
