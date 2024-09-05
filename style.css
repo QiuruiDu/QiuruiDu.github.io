@@ -25,6 +25,10 @@ body {
     vertical-align: top;
 }
 
+#mymap-menu {
+	width: 160px;
+}
+
 #layout-menu td {
 	background: #f4f4f4;
     vertical-align: top;
@@ -358,3 +362,4 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
